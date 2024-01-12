@@ -1,13 +1,19 @@
 NO ./textures/minecraft/north.xpm
-SO ./textures/minecraft/south.xpm
+SO ./textures/wolfenstein/blue_stone.xpm
 WE ./textures/minecraft/west.xpm
-EA ./textures/minecraft/east.xpm
+EA ./textures/wolfenstein/eagle.xpm
 
 F 220, 100, 0
 C 225, 30, 0
 
+1
+1
+1
+1
+1
+
 111111
-100101
+10E0101
 101001
-1100N1
+11001
 111111
